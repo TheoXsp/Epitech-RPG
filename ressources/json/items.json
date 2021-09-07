@@ -1,0 +1,47 @@
+[
+ {
+    "id": 1,
+    "name": "Excalibur",
+    "description": "Thats a lot of DAMAAAGE",
+    "path": "ressources/sprites/sword.png",
+    "att_buff": 9999,
+    "def_buff": 0,
+    "speed_buff": 0
+ },
+ {
+    "id": 2,
+    "name": "Berseker Helmet",
+    "description": "A big nice nordic helmet",
+    "path": "ressources/sprites/helm.png",
+    "att_buff": 10,
+    "def_buff": 50,
+    "speed_buff": 0
+ },
+ {
+    "id": 3,
+    "name": "Soft Boots",
+    "description": "Even softer than nikies",
+    "path": "ressources/sprites/boots.png",
+    "att_buff": 10,
+    "def_buff": 50,
+    "speed_buff": 0
+ },
+ {
+   "id": 4,
+   "name": "Key castle",
+   "description": "You can now fight the boss!",
+   "path": "ressources/sprites/key.png",
+   "att_buff": 0,
+   "def_buff": 0,
+   "speed_buff": 0
+ },
+ {
+   "id": 5,
+   "name": "Basic Sword",
+   "description": "At least you've got one",
+   "path": "ressources/sprites/ecosword.png",
+   "att_buff": 10,
+   "def_buff": 0,
+   "speed_buff": 0
+ }
+]
